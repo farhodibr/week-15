@@ -73,9 +73,11 @@ export default function Update(props) {
             onChange={(event) => setEmail(event.target.value)}
           ></input>
         </div>
+        <div >
         <button onClick={updateData} >
           Submit
         </button>
+        </div>
       </form>
     </div>
         </Modal.Body>

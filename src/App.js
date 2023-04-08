@@ -6,8 +6,8 @@ import Read from './components/read';
 function App() {
   return (
     <div className="App">
-      <Create/>
-      <Read/>
+      <Create />
+      
     </div>
   );
 }
